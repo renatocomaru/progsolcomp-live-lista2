@@ -1,6 +1,6 @@
 /* Nome do Aluno: Renato Comarú Matos
 * RA: 1292314966
-* Nome do Programa: exercicio20.java
+* Nome do Programa: exercicio21.java
 * Data: 08/05/2023
 */
 package exercícios;
